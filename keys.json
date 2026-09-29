@@ -1,0 +1,27 @@
+{
+    "database": {
+        "DJTEAM-2026-0001": {
+            "status": "active",
+            "hwid": null,
+            "used": false,
+            "created": "2026-09-29",
+            "expires": "2026-09-30",
+            "owner": "user1",
+            "device_name": null
+        },
+        "DJTEAM-2024-0002": {
+            "status": "active",
+            "hwid": null,
+            "used": false,
+            "created": "2024-09-29",
+            "expires": null,
+            "owner": "user2",
+            "device_name": null
+        }
+    },
+    "banned_hwids": [],
+    "settings": {
+        "max_devices_per_key": 1,
+        "allow_reset": true
+    }
+}
